@@ -1,0 +1,29 @@
+for hw1 professor note:
+
+Comments
+Feedback to Learner
+10/6/18 8:56 AM
+-10: does not run CWD
+
+./loop: Command not found.
+
+
+
+msh> loop
+
+loop: Command not found.
+
+
+
+msh> ls
+
+a.out bxg.c  foo   loop.c  soapC.cpp soap.nsmap  ssg7500.c
+
+Assignment #1  Shell_rxs7235_attempt_2018-09-24-18-13-56_msh.c crr.c  loop  nhan.c  soapH.h soapStub.h
+
+msh>
+
+
+
+
+-10: bg
